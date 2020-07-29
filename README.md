@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center"><img src="https://s1.ax1x.com/2020/07/22/U7AME6.png" /></div>
 
-<!--
-**SNFocus/SNFocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+![Feng L.H.'s github stats](https://github-readme-stats.vercel.app/api?username=zpfz&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I?
+A font-end progranmer in BeiJing.
+
+## Skills
+
+### Programming
+| ![Vuejs](https://s1.ax1x.com/2020/07/22/U7hkn0.png)
+| :-: |
+ [VueJS](https://cn.vuejs.org/)
+
+
+### Social
+| ![juejin](https://s1.ax1x.com/2020/07/22/U7HhJf.png) |
+| :-: | 
+  [Juejin](https://juejin.im/user/5d07466b51882554d6312922) |
+
